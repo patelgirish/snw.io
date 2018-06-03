@@ -2,12 +2,18 @@ body { font: normal 1em Roboto;}
 h1 { 
   font: Bold 3em Roboto; 
   color: rgb(87, 6, 140);
-  padding: 1px 8px;
-  &::before {
-    content: "\A";
   }
 }
-h2 { font: Bold 2em Roboto; color: rgb (146, 208, 80); }
-img { margin: 0 10px 0 0; }
-h1 img { margin-bottom: -10px; }
-small { color: #666666; }
+h2 { 
+  font: Bold 2em Roboto; 
+  color: rgb (146, 208, 80); 
+}
+img { 
+  margin: 0 10px 0 0; 
+}
+h1 img { 
+  margin-bottom: -10px; 
+}
+small { 
+  color: #666666; 
+}
