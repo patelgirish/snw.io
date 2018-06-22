@@ -1,12 +1,14 @@
 .header {
   overflow: hidden;
   background-color: #f1f1f1;
-  padding: 20px 10px;
+  margin-left: 20%;
+  margin-top: 20%;
 }
 
 li {
 display: inline;
-margin-right: 10px;}
+  margin-top: 20%;
+  margin-right: 20%;}
 
 .col-sm-8 {
   display: flex;
