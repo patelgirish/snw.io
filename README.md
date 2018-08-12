@@ -1,2 +1,0 @@
-# snw
-Web Portal
